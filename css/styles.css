@@ -1,0 +1,11 @@
+body {
+  /*background-color: blue;*/
+}
+.pic-items {
+  width: 700px;
+  height: 800px;
+}
+ img {
+   width: 200px;
+   height: 250px;
+ }

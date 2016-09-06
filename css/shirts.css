@@ -1,0 +1,13 @@
+.pic {
+  width: 300px;
+  height: 200px;
+}
+
+.content {
+  color: red;
+}
+
+.size {
+  position: relative;
+  top: 150px;
+}
